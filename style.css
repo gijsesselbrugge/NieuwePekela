@@ -5,13 +5,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-.image-before {
-  z-index: 1;
-}
-
-.image-after {
-  z-index: 2;
-}
 body {
   font-family: 'relative', bold;
   display: grid;
